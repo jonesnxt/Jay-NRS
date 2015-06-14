@@ -1,0 +1,10 @@
+{
+  "pluginVersion": 1,
+  "name": "Multigateway",
+  "myVersion": "v.1.0",
+  "shortDescription": "Move BTC and other cryptocurrencies in and out of the Asset Exchange",
+  "infoUrl": "http://multigateway.org/",
+  "startPage": "multigateway",
+  "nrsVersion": "1.5.9",
+  "deactivated": false
+}
